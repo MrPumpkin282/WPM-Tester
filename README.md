@@ -28,7 +28,7 @@ pip install windows-curses
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/WPM-Tester.git
+   git clone https://github.com/MrPumpkin282/WPM-Tester.git
    cd WPM-Tester
    ```
 
